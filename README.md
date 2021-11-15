@@ -1,11 +1,6 @@
 ## Hi 👋 I'm Vanessa.
 Estudante em Análise e Desenvolvimento de Sistemas (ADS). 📊☁📱💻🖍🎮📝🚀
 
-Redes Sociais
-----------
-<a href="https://www.linkedin.com/in/vccortes/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="https://www.instagram.com/vccortes_/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
 Contato
 ------
 <a href="mailto:vanessacuevascortes@hotmail.com"> <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
@@ -16,6 +11,11 @@ Tecnologia e Ferramentas
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+
+Redes Sociais
+----------
+<a href="https://www.linkedin.com/in/vccortes/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.instagram.com/vccortes_/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
 GitHub Stats
 -----
