@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Vanessa.
-Estudante em Análise e Desenvolvimento de Sistemas (ADS) em busca de oportunidades e colaboração em projetos que possam ajudar no aprendizado. 📊☁📱💻🖍🎮📝🚀
+Estudante em Análise e Desenvolvimento de Sistemas (ADS). 📊☁📱💻🖍🎮📝🚀
 
 Redes Sociais
 ----------
