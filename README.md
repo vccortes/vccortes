@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Vanessa.
-Estudante em Análise e Desenvolvimento de Sistemas (ADS). 📊☁📱💻🖍🎮📝🚀
+Formada em Análise e Desenvolvimento de Sistemas (ADS). 📊☁📱💻🖍🎮📝🚀
 
 Contato
 ------
