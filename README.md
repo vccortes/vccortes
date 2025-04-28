@@ -1,5 +1,6 @@
 ## Hi 👋 I'm Vanessa.
 Formada em Análise e Desenvolvimento de Sistemas (ADS). 📊☁📱💻🖍🎮📝🚀
+Pós graduanda em Engenharia de Software. 
 
 Contato
 ------
